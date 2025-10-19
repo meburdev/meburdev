@@ -15,6 +15,8 @@ My core focus is combining the efficiency of modern Front-end development with t
 
 - Styling & Design: Tailwind CSS (Focus on responsive and mobile-first design), CSS Modules.
 
+- Architectural Focus: RESTful APIs, Microservices, Serverless Functions, Server-Side Rendering (SSR).
+
 💼 Relevant Experience and Contributions
 
 Throughout my career, I have contributed to the full software development lifecycle, focusing on code efficiency and quality.
