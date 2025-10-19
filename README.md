@@ -11,7 +11,7 @@ My core focus is combining the efficiency of modern Front-end development with t
 
 - Back-end & Runtime: Node.js, Express.js, Symfony (PHP), Laravel (PHP), API Platform, RESTful APIs, Serverless Functions.
 
-- Databases: MongoDB, PostgreSQL, Firebase / Firestore (Persistence and Real-time data).
+- Databases: MySQL/MariaDB, PostgreSQL.
 
 - Styling & Design: Tailwind CSS (Focus on responsive and mobile-first design), CSS Modules.
 
