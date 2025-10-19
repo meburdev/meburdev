@@ -15,40 +15,6 @@ My core focus is combining the efficiency of modern Front-end development with t
 
 - Styling & Design: Tailwind CSS (Focus on responsive and mobile-first design), CSS Modules.
 
-🛠️ Detailed Technology Stack
-
-Here is a full breakdown of the tools and languages that compose my stack, ranging from base languages to specific frameworks and libraries:
-
-💻 Programming Languages
-
-- JavaScript / TypeScript: Primary foundation for Front-end and Back-end development (Node.js).
-
-- PHP: Experience in enterprise Back-end development using the Symfony and Laravel frameworks.
-
-- SQL: Advanced handling of complex queries, optimization, and management of relational databases (PostgreSQL).
-
-- HTML5 / CSS3: Solid fundamentals for interface structure and presentation.
-
-🧩 Frameworks, Libraries, and Tools
-
-- Front-end:
-
-  - React.js / Next.js: Developing SPAs and applications with Server-Side Rendering (SSR).
-
-  - Vue.js: Experience building components and managing state with Vuex.
-
-  - Tailwind CSS: Utility-First methodology for responsive design and rapid prototyping.
-
-- Back-end:
-
-  - Node.js / Express.js: Building scalable REST APIs and microservices.
-
-  - Symfony (PHP): Developing enterprise MVC applications, managing Doctrine ORM and migrations.
-
-  - Laravel (PHP): Experience in the Laravel MVC ecosystem, including Eloquent ORM, database migrations, and routing management.
-
-  - API Platform (Symfony): Experienced in creating REST and GraphQL APIs focusing on serialization, validation, and data management.
-
 💼 Relevant Experience and Contributions
 
 Throughout my career, I have contributed to the full software development lifecycle, focusing on code efficiency and quality.
