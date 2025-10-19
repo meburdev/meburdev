@@ -1,16 +1,84 @@
-## Hi there 👋
 
-<!--
-**meburdev/meburdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Levi Josué Medina Burguillos.
 
-Here are some ideas to get you started:
+A Full-Stack Developer specializing in building robust and scalable user interfaces with React & Next.js and Vue.js. My work is backed by a solid foundation in developing RESTful APIs using MERN Stack and MVC (Symfony/Laravel) architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core focus is combining the efficiency of modern Front-end development with the necessary Back-end logic to build complete, high-performance applications.
+
+🚀 Core Skills and Technologies
+
+- Front-end & Frameworks: React, Next.js, Vue.js, Redux, Context API, JavaScript (ES6+).
+
+- Back-end & Runtime: Node.js, Express.js, Symfony (PHP), Laravel (PHP), API Platform, RESTful APIs, Serverless Functions.
+
+- Databases: MongoDB, PostgreSQL, Firebase / Firestore (Persistence and Real-time data).
+
+- Styling & Design: Tailwind CSS (Focus on responsive and mobile-first design), CSS Modules.
+
+🛠️ Detailed Technology Stack
+
+Here is a full breakdown of the tools and languages that compose my stack, ranging from base languages to specific frameworks and libraries:
+
+💻 Programming Languages
+
+- JavaScript / TypeScript: Primary foundation for Front-end and Back-end development (Node.js).
+
+- PHP: Experience in enterprise Back-end development using the Symfony and Laravel frameworks.
+
+- SQL: Advanced handling of complex queries, optimization, and management of relational databases (PostgreSQL).
+
+- HTML5 / CSS3: Solid fundamentals for interface structure and presentation.
+
+🧩 Frameworks, Libraries, and Tools
+
+- Front-end:
+
+  - React.js / Next.js: Developing SPAs and applications with Server-Side Rendering (SSR).
+
+  - Vue.js: Experience building components and managing state with Vuex.
+
+  - Tailwind CSS: Utility-First methodology for responsive design and rapid prototyping.
+
+- Back-end:
+
+  - Node.js / Express.js: Building scalable REST APIs and microservices.
+
+  - Symfony (PHP): Developing enterprise MVC applications, managing Doctrine ORM and migrations.
+
+  - Laravel (PHP): Experience in the Laravel MVC ecosystem, including Eloquent ORM, database migrations, and routing management.
+
+  - API Platform (Symfony): Experienced in creating REST and GraphQL APIs focusing on serialization, validation, and data management.
+
+💼 Relevant Experience and Contributions
+
+Throughout my career, I have contributed to the full software development lifecycle, focusing on code efficiency and quality.
+
+- Microservices and API Development: Building and maintaining robust RESTful APIs using Node.js/Express.js, and developing enterprise business logic with PHP frameworks (Symfony, Laravel, and API Platform), including advanced serialization/deserialization.
+
+- Database Management: Designing data schemas and optimizing queries in both NoSQL (MongoDB/Firestore) and SQL (PostgreSQL) environments, including stored procedures.
+
+- Front-end Performance Optimization: Implementing caching strategies, lazy loading, and optimizing React/Next.js and Vue.js components to enhance load speed and user experience.
+
+- Payment and Third-Party System Integration: Experienced in connecting with payment gateways (Stripe, PayPal, etc.) and external APIs, ensuring secure credential handling.
+
+- Responsive Design and Accessibility (A11y): Developing interfaces with Mobile-First methodologies using Tailwind CSS, ensuring full compatibility and adherence to ARIA standards.
+
+✨ Current Technical Focus
+
+I am currently focused on advanced third-party service integration to build "Technical Demos" that showcase my ability to connect with and handle external data.
+
+My recent projects have centered on:
+
+- Artificial Intelligence (AI): Integrating APIs like Google Gemini to create conversational Chatbots and image analysis modules.
+
+- Serverless Architecture: Secure and efficient deployment on Vercel, utilizing API Routes to manage secrets and Back-end logic.
+
+- UX/Accessibility: Developing components optimized for usability and user experience (including dark themes and multilingual support).
+
+🌐 Let's Connect
+
+- Portfolio: https://portfolio-levi-medina.vercel.app/es .
+
+- LinkedIn: https://www.linkedin.com/in/levi-josue-medina-burguillos-02b388261/
+
+- Email: mebur.dev@gmail.com
