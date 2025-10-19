@@ -43,7 +43,7 @@ My recent projects have centered on:
 
 🌐 Let's Connect
 
-- Portfolio: https://portfolio-levi-medina.vercel.app/es .
+- Portfolio: https://portfolio-levi-medina.vercel.app/es 
 
 - LinkedIn: https://www.linkedin.com/in/levi-josue-medina-burguillos-02b388261/
 
