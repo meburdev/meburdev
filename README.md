@@ -43,6 +43,8 @@ My recent projects have centered on:
 
 - UX/Accessibility: Developing components optimized for usability and user experience (including dark themes and multilingual support).
 
+*(Note: My core professional work resides in private repositories on GitLab; this GitHub profile is used for open-source demos and personal projects.)*
+
 🌐 Let's Connect
 
 - Portfolio: https://portfolio-levi-medina.vercel.app/es 
